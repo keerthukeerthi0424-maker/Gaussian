@@ -10,7 +10,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Algorithm
 1.Import NumPy for matrix operation
 
-2. Get the coefficient matrix and constant matrix.
+2.Get the coefficient matrix and constant matrix.
  
 3.Apply gaussian Elimination to solve the system of linear equation
  
